@@ -1,0 +1,91 @@
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\Contacts.dll.config
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\Contacts.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\Contacts.pdb
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\Antlr3.Runtime.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\Microsoft.Web.Infrastructure.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\Newtonsoft.Json.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.Helpers.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.Mvc.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.Optimization.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.Razor.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.WebPages.Deployment.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.WebPages.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.WebPages.Razor.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\WebGrease.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.Helpers.xml
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.Mvc.xml
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.Optimization.xml
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.Razor.xml
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.WebPages.xml
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.WebPages.Deployment.xml
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\System.Web.WebPages.Razor.xml
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\Newtonsoft.Json.xml
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\Antlr3.Runtime.pdb
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\obj\Debug\Contacts.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\obj\Debug\Contacts.pdb
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\EntityFramework.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\EntityFramework.SqlServer.dll
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\EntityFramework.xml
+D:\Blogs\CRUD ASP.NET MVC 5, Angular, BootStrap3\Contacts\Contacts\bin\EntityFramework.SqlServer.xml
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\Contacts.dll.config
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\Contacts.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\Contacts.pdb
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\Antlr3.Runtime.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\EntityFramework.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\EntityFramework.SqlServer.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\Microsoft.Web.Infrastructure.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\Newtonsoft.Json.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.Helpers.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.Mvc.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.Optimization.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.Razor.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.WebPages.Deployment.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.WebPages.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.WebPages.Razor.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\WebGrease.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\EntityFramework.xml
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\EntityFramework.SqlServer.xml
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.Helpers.xml
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.Mvc.xml
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.Optimization.xml
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.Razor.xml
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.WebPages.xml
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.WebPages.Deployment.xml
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\System.Web.WebPages.Razor.xml
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\Newtonsoft.Json.xml
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\bin\Antlr3.Runtime.pdb
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\obj\Debug\Contacts.dll
+D:\MyDev\VS2013\MVC5\Contacts\Contacts\obj\Debug\Contacts.pdb
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\Contacts.dll.config
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\Contacts.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\Contacts.pdb
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\Antlr3.Runtime.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\EntityFramework.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\EntityFramework.SqlServer.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\Microsoft.Web.Infrastructure.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\Newtonsoft.Json.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.Helpers.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.Mvc.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.Optimization.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.Razor.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.WebPages.Deployment.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.WebPages.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.WebPages.Razor.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\WebGrease.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\EntityFramework.xml
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\EntityFramework.SqlServer.xml
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.Helpers.xml
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.Mvc.xml
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.Optimization.xml
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.Razor.xml
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.WebPages.xml
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.WebPages.Deployment.xml
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\System.Web.WebPages.Razor.xml
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\Newtonsoft.Json.xml
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\bin\Antlr3.Runtime.pdb
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\obj\Debug\Contacts.dll
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\obj\Debug\Contacts.pdb
+E:\MyDEV\VS2013\MVC5\AngularJS\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
